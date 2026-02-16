@@ -5,6 +5,8 @@
 ## 🚀 프로젝트 개요
 치와와와 머핀의 시각적 유사성을 머신러닝으로 구분해내는 인공지능 서비스입니다. 65.00%의 초기 정확도로 시작하여 지속적으로 데이터를 업데이트하고 있습니다.
 
+80퍼센트 정확도를 달성 하였습니다!
+
 ## 🛠 Tech Stack
 - **Language**: Python
 - **Libraries**: Selenium, Scikit-learn, OpenCV, Joblib, Gradio
